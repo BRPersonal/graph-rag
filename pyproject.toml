@@ -26,6 +26,7 @@ dependencies = [
     "llama-parse>=0.6.94",
     "matplotlib>=3.10.8",
     "neo4j>=5.28.3",
+    "nest-asyncio>=1.6.0",
     "networkx>=3.6.1",
     "pymupdf>=1.27.1",
     "pypdf>=6.7.4",
